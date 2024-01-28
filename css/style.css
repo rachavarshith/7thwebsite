@@ -1523,7 +1523,7 @@ aside .pages {
 /* ====== 1.9. How we work section ====== */
 
 .work {
-    background-image: url('../Images/work-bg.jpg');
+    background-image: url('../images/work-bg.jpg');
     background-size: cover;
     background-position: center center;
     padding: 120px 0;
